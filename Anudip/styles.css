@@ -1,0 +1,38 @@
+/* Existing CSS styles remain unchanged */
+
+.input-form {
+    margin-top: 20px;
+    padding-top: 20px;
+    border-top: 1px solid #ccc;
+}
+
+.input-form form {
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+.input-form label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.input-form input[type="number"] {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.input-form button {
+    padding: 10px 20px;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.input-form button:hover {
+    background-color: #555;
+}
